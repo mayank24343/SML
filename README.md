@@ -26,7 +26,7 @@ This repository contains solutions and reports for the Statistical Machine Learn
 
 ### Report
 
-[Go to Assignment 1 Report](#assignment-1-report)
+[Go to Assignment 1 Report](2024343_A1.pdf)
 
 ---
 
