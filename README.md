@@ -51,7 +51,7 @@ This repository contains solutions and reports for the Statistical Machine Learn
 
 ### Report
 
-[Go to Assignment 2 Report](#assignment-2-report)
+[Go to Assignment 2 Report](2024343_A2.pdf)
 
 ---
 
@@ -114,7 +114,7 @@ This repository contains solutions and reports for the Statistical Machine Learn
 
 ### Report
 
-[Go to Assignment 3 Report](#assignment-3-report)
+[Go to Assignment 3 Report](2024343_A3.pdf)
 
 ---
 
@@ -174,7 +174,7 @@ This repository contains solutions and reports for the Statistical Machine Learn
 
 ### Report
 
-[Go to Assignment 4 Report](#assignment-4-report)
+[Go to Assignment 4 Report](2024343_A4.pdf)
 
 ---
 
